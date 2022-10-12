@@ -1,1 +1,4 @@
-No external Dependencies
+External Dependencies:
+- pygame
+Internal Dependencies:
+- bpg (open for testing)
